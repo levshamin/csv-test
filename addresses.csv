@@ -1,7 +1,1 @@
-Name, Surname, Address, City, State, Postal Code
-John,Doe,120 jefferson st.,Riverside, NJ, 08075
-Jack,McGinnis,220 hobo Av.,Phila, PA,09119
-"John ""Da Man""",Repici,120 Jefferson St.,Riverside, NJ,08075
-Stephen,Tyler,"7452 Terrace ""At the Plaza"" road",SomeTown,SD, 91234
-Joe,Blankman,122 Jefferson St.,SomeTown, SD, 00298
-"Joan ""the bone"", Anne",Jet,"9th, at Terrace plc",Desert City,CO,00123
+id_1,index_1,guid_1,isActive_1,balance_1,age_1,name_1,company_1,email_1,id_2,index_2,guid_2,isActive_2,balance_2,age_2,name_2,company_2,email_2,elasticio\r\n60e34e9e8fe8ad230267225c,472,3a923e97-9115-426e-a295-fd3c455cde02,false,\"$1,483.24\",34,Petra Manning,EXPOSA,petramanning@exposa.com,60e34e9e7da475eab3c3121b,462,3a923e97-9115-426e-a295-fd3c455cde02,false,\"$3,483.24\",38,Clare Kinney,EXPOSA,clarekinney@decratex.com
